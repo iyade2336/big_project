@@ -1,0 +1,19 @@
+/* start box */
+.d-flex {
+    display: flex;
+
+}
+
+.c_orange {
+    background-color: #f59e0b;
+}
+
+.c_blue {
+    background-color: #0075ff;
+}
+
+.c_green {
+    background-color: #22c55e;
+}
+
+/* start box */
